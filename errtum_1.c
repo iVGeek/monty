@@ -1,5 +1,5 @@
 /*
- * File: errors_1.c
+ * File: errtum_1.c
  * Auth: iVGeek
  *       
  */
