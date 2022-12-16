@@ -1,11 +1,10 @@
 /*
  * File: errtum_1.c
  * Auth: iVGeek
- *       
+ *
  */
 
 #include "monty.h"
-
 int usage_error(void);
 int malloc_error(void);
 int f_open_error(char *filename);
