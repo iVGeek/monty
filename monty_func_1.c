@@ -100,7 +100,6 @@ void monty_pint(stack_t **stack, unsigned int line_number)
 	printf("%d\n", (*stack)->next->n);
 }
 
-
 /**
  * monty_pop - Removes the top value element of a stack_t linked list.
  * @stack: A pointer to the top mode node of a stack_t linked list.
