@@ -10,7 +10,7 @@ The interpreter can handle a variety of Monty opcodes, including printing, mathe
 
 ## CODESMITHES 🦊&🌻
 
-[GitHub](https://github.com/iVGeek)|iVGeek
-[GitHub](https://github.com/hebaomar94)|hebaomar94
+GitHub|[iVGeek](https://github.com/iVGeek)
+GitHub|[hebaomar94](https://github.com/hebaomar94)
 
 ![image](https://user-images.githubusercontent.com/97067717/207470061-0628eb0a-79e9-4cca-ad23-79c819aa4387.png)
